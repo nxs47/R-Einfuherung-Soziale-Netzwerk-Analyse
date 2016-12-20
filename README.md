@@ -12,7 +12,9 @@ Es wird die Verwendung der R-Studio (http://www.r-studio.org) Oberfläche empfoh
 auch mit dem herkömlichen R-GUI und anderen Oberflächen.
 
 Autoren:
-Michael Kronenwett (http://www.kronenwett-adolphs.com)
+
+Michael Kronenwett (http://www.kronenwett-adolphs.com) 
+
 Till Krenz (https://github.com/tilltnet)
 
 Version 1.0.0
