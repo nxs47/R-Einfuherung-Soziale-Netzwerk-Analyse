@@ -1,10 +1,4 @@
-R - Einführung in R & Kleine Einführung in die Netzwerkanalyse mit R
-Version 1.0.0
-
-
-Autoren:
-Michael Kronenwett (http://www.kronenwett-adolphs.com)
-Till Krenz (https://github.com/tilltnet)
+# R - Einführung in die soziale Netzwerkanalyse mit R
 
 
 R (http://www.r-project.org/) ist eine freie und quelloffene Software, die viele Möglichkeiten für statistische Analysen und graphische Darstellungen bereithält. Die Grundinstallation von R kann durch Pakete (Libraries) erweitert werden. 
@@ -17,5 +11,10 @@ eingeübt sowie einfach statistische Verfahren und das Installieren und Laden vo
 Es wird die Verwendung der R-Studio (http://www.r-studio.org) Oberfläche empfohlen, das Skript funktioniert aber 
 auch mit dem herkömlichen R-GUI und anderen Oberflächen.
 
+Autoren:
+Michael Kronenwett (http://www.kronenwett-adolphs.com)
+Till Krenz (https://github.com/tilltnet)
+
+Version 1.0.0
 
 Lizenz: CC-BY (https://creativecommons.org/licenses/by/4.0/legalcode)
