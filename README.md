@@ -1,4 +1,4 @@
-# R - Einführung in die soziale Netzwerkanalyse mit R
+# Einführung in die soziale Netzwerkanalyse mit R
 
 
 R (http://www.r-project.org/) ist eine freie und quelloffene Software, die viele Möglichkeiten für statistische Analysen und graphische Darstellungen bereithält. Die Grundinstallation von R kann durch Pakete (Libraries) erweitert werden. 
